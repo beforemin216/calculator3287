@@ -7,7 +7,7 @@ setuptools.setup (
   description='oss your calculator',
   author='JMJ',
   author_email='beforemin386@gmail.com',
-  url='',
+  url='https://github.com/beforemin216/calculator3287',
   install_requires=['pytest'],
   long_description='oss your calculator',
   long_description_content_type='text/markdown',
