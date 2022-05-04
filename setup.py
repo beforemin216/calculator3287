@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup (
   include_package_data = True,
-  nmae='yourcalculator3287',
+  name='yourcalculator3287',
   version='1.0.0',
   description='oss your calculator',
   author='JMJ',
